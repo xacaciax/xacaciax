@@ -1,9 +1,11 @@
 # Hi, I'm Acacia 👋
 
-Get to know me...
+Quick links for: 
 
-→ I have 30 seconds.
+→ 👩‍💼 Hiring Managers 
 
-→ I want to know how you think.
+→ 📄 Recruiters
 
-→ Let's talk shop.
+→ 👩‍💻 Fellow Engineers
+
+→ 👽 Strangers of any kind
