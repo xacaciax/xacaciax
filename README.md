@@ -2,10 +2,11 @@
 
 Quick links for: 
 
-→ 👩‍💼 Hiring Managers 
+→ 👩‍💼 [Hiring Managers](hiring-managers)
 
-→ 📄 Recruiters
+→ 📄 [Recruiters](recruiters)
 
-→ 👩‍💻 Fellow Engineers
+→ 👩‍💻 [Fellow Engineers](engineers)
 
-→ 👽 Strangers of any kind
+→ 👽 [Strangers of any kind](anyone)
+
