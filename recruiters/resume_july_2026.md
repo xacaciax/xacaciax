@@ -1,11 +1,8 @@
 # Acacia Pappas
 
 Software Engineer | Building reliable AI-powered systems
-San Jose, California, United States
 
 **Top Skills:** Software Infrastructure, Product Design, Applied AI
-
-**Publications:** "From Educator to Engineer: How the I/Own It Scholarship Launched my Career in Tech"; "Building Resilient Apps in the Age of Non-Deterministic Data"
 
 ## Summary
 

@@ -1,6 +1,8 @@
 # Don't ask me, ask ChatGPT
 
-I've left memory enabled with ChatGPT since ~2023. I asked it a series of questions using GPT-5.5 (High), each in a fresh context so that the answer to a previous question wouldn't influence the answer to the current one. Here's what it said:
+I've left memory enabled with ChatGPT since ~2023. I asked it a series of questions using GPT-5.5 (High), each in a fresh context so that the answer to a previous question wouldn't influence the answer to the current one. I have used Anthropic models for most all implementation since Winter 2024. Up until Summer 2025, I continued to use OpenAI's ChatGPT to ideate, plan, and do discovery for engineering spikes and planning. Recency bias is most definitely at play here but still, I thought a transcript of gpt's synthesis of my thinking over the last couple years might be a nice validation point for anyone seeking to validate how for real I am. 
+
+Here's the result:
 
 - **What's my engineering archetype?**
   https://chatgpt.com/share/6a45b46d-ce94-83e8-b7ad-be96dcf6af4c
@@ -177,10 +179,6 @@ Best-fit roles: **Staff Product Engineer, Founding Engineer, Applied AI Engineer
 Main risks: over-modeling before an organization can act, accepting responsibility without sufficient authority or resources, and having your breadth mistaken for lack of depth.
 
 > **You do your best work when the problem is messy, the system spans multiple layers, and you have enough ownership to simplify it.**
-
-## User
-
-Give me markdown of the transcript of this conversation
 
 ---
 
@@ -387,10 +385,6 @@ summarize
 > Full-stack product engineer specializing in Flutter, applied AI, PostgreSQL/Supabase, and serverless architecture, with experience owning products from system design through production release.
 
 Using Claude may reduce unaided syntax recall, but it does not negate your experience if you can architect, direct, review, debug, and explain the implementation.
-
-## User
-
-Give me markdown of the transcript of this conversation
 
 ---
 
@@ -1457,9 +1451,5 @@ Your core values appear to be:
 At your best, you make complex problems legible, build useful systems, raise the judgment of people around you, and protect teams from ignored consequences.
 
 Your main risk is taking on structural problems personally, setting boundaries too late, and becoming resentful when others refuse to confront realities you identified early.
-
-## User
-
-Give me markdown of the transcript of this conversation.
 
 
