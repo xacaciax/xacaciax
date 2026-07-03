@@ -1,18 +1,23 @@
-Hi there, thanks for dropping by. 
+Here are some things I played a part in building or built, most recent first: 
 
-Here are some things I played a part in building or built.
+2024 to present 
 
-2024 - present - Hope Street Group, ... 
+- Teacher App on Web https://teachers.hopestreetgroup.org/quests
+- Teacher app v1 prototype https://app.hopestreetgroup.org/dashboard
+- Hope Street for students on web https://discover.hopestreetgroup.org/
+- Hope Street for students on Android https://play.google.com/store/apps/details?id=org.hopestreetgroup.hope_st&hl=en_US
+- Hope Street for students on iOS https://apps.apple.com/us/app/hope-street/id6447386859
+- Hope Street Group Main https://www.hopestreetgroup.org/app
 
-todo
+Learn more about our product evolution (here)[todo]
 
-2023, Edily, "like TikTok for educational content"
+2023 at Edily as a sole mobile engineer
 
 No longer in the app stores, but you can see it on [Product Hunt](https://www.producthunt.com/products/edily?launch=edily).
 
-This is where I first worked on video-heavy mobile infra. I learned to handle large video files in a live feed, then went deeper into Flutter's [architecture](https://docs.flutter.dev/resources/architectural-overview) building cross-platform push notifications: sending and receiving across both APNs and FCM. From there I started working back into the stack: editing our infrastructure-as-code for Lambda, reading CloudWatch logs to debug in production, and using DynamoDB to ship full-stack features end to end.
+"Like TikTok for educational content". This is where I first worked on video-heavy mobile infra. I learned to handle large video files in a live feed, then went deeper into Flutter's [architecture](https://docs.flutter.dev/resources/architectural-overview) building cross-platform push notifications: sending and receiving across both APNs and FCM. From there I started working back into the stack: editing our infrastructure-as-code for Lambda, reading CloudWatch logs to debug in production, and using DynamoDB to ship full-stack features end to end.
 
-2021, 2023, Uptrust, sole mobile engineer
+2021 to 2023 at Uptrust as a sole mobile engineer
 
 - [Uptrust (Android)](https://play.google.com/store/apps/details?id=com.uptrust.enduser&hl=en_US)
 - [Uptrust (iOS)](https://apps.apple.com/us/app/uptrust/id1499549450)
