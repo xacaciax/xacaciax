@@ -2,9 +2,9 @@ Here are some things I built or contributed to significantly, most recent first:
 
 ### 2024 to present
 
-- [Teacher App on Web](https://teachers.hopestreetgroup.org/quests)
-- [Teacher app v1 prototype](https://app.hopestreetgroup.org/dashboard)
-- [Hope Street for students on web](https://discover.hopestreetgroup.org/)
+- [Teacher App on Web](https://teachers.hopestreetgroup.org/quests) Our primary teacher app helping teachers launch quests from their classroom. 
+- [Teacher app v0 prototype](https://app.hopestreetgroup.org/dashboard) Helped us learn what insights educators care about.
+- [Hope Street for students on web](https://discover.hopestreetgroup.org/) Flutter web app for students. 
 - [Annual Slack Evals](https://github.com/xacaciax/slack-openai-evaluations) before Claude CoWork, built this to assist in yearly reflections and perf reviews
 - [Hope Street for students on Android](https://play.google.com/store/apps/details?id=org.hopestreetgroup.hope_st&hl=en_US) 
 - [Hope Street for students on iOS](https://apps.apple.com/us/app/hope-street/id6447386859)
