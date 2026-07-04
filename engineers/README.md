@@ -32,3 +32,8 @@ Uptrust's mission is reducing unnecessary incarceration. They help justice-invol
 I came in knowing basically nothing and left as the person who owned mobile. Along the way I learned to handle streaming data (building a video chat feature), how mobile deployment actually works end to end, and how to use observability to inform product decisions, not just debug crashes. A contracting senior engineer, our staff-web engineer, and genuinely excellent docs, [Effective Dart](https://dart.dev/effective-dart) in particular, taught me why the opinions existed: why models, why strong typing, why null safety. That was the first time style guides clicked for me as reasoning tools, not just formatting rules.
 
 I also wrote my first PRD, mostly because someone had to. I liked digging through user interviews for patterns, then turning around and building what they pointed to. I implemented the resulting feature myself, Sending Images, learning to use S3 and pre-signed URLs to store and serve images along the way.
+
+----
+
+Read my long form writing, essays, experiments and articles, on my personal page here: [{acacia}](https://xacaciax.github.io/). 
+Silly experiements and random things [here](./anyone)
