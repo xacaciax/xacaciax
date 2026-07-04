@@ -86,7 +86,7 @@ In my most recent role where, I own a pretty large surface area and have also re
 
 #### Heart first, head second. 
 
-There is this stigma that engineers are extremely rational, and therefore imlicitly less prone to making emotional decisions. I am both female and woman, I am very in touch with my emotions and sensetive to the emotions of those around me. I love the empirical nature of the the engineering process. But all the engineers that I have worked with so far are no less emotional than me whent it comes to making decisions and I wish we were all more honest about this. The more honest we are about how our emotions effect our decision making, the bette decisions we will make. I list this as a quark because working in tech, this feels for some reason, like a counter cultural position to take Communicating our mission, casting vision, and leading people generally requires HEART first! 
+There is this stigma that engineers are extremely rational, and therefore imlicitly also less prone to making emotional decisions. I am both female and a woman, I am very in touch with my emotions and sensetive to the emotions of those around me. I love the empirical nature of the the engineering process. In my experience, all the engineers that I have worked with so far are no less emotional than me when it comes to making decisions. I wish we were all more honest about this. The more honest we are about how our emotions effect our decision making, the better decisions we will make. I list this as a quirk because working in tech this feels counter-cultural. Communicating mission, casting vision, and leading people generally requires HEART first! 
 
 ### My Story
 
