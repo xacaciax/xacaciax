@@ -6,4 +6,4 @@ Where I put all the silly and fun stuff that is adjascent to implementation or d
 - [Steering our organizations Claude CoWork space using an obsidian style markdown graph](https://github.com/HopeStreetGroup/hsg-wiki)
 - [Building with AI: surfacing narrative tension within our org using Claude CoWork and Lovable](todo: loom or .md summary or personal post?)
 
-Read my long form writing, essays, experiments and articles, on my personal page here: [{acacia}](https://xacaciax.github.io/). 
+Read my long form writing, essays, experiments and articles on my personal page here: [{acacia}](https://xacaciax.github.io/). 
