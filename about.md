@@ -104,4 +104,4 @@ For fun, I love to spend time outdoors and enjoy anything that involves a contro
 
 ### What I'm up to... 
 
-In February 2024 I joined Hope Street Group as a Founding / Senior Software Engineer!
+In July 2026, I am at Hope Street Group as Founding Software Engineer, and currently serving as interim CTO.
