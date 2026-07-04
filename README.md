@@ -1,8 +1,7 @@
 Quick links for: 
 
-→ 📄 [Recruiters](recruiters)
+→ 👩‍💻 [Builders](engineers)
 
-→ 👩‍💻 [Fellow Engineers](engineers)
+→ 📄 [Recruiters, etc.](recruiters)
 
 → 👽 [Strangers of any kind](anyone)
-
