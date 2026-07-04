@@ -1,4 +1,4 @@
-Here are some things I built or made significant contribution, most recent first:
+Things I built or things where I made a significant contribution, most recent first:
 
 ### 2024 to present
 
