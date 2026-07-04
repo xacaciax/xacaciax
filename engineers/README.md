@@ -2,12 +2,13 @@ Here are some things I built or contributed to significantly, most recent first:
 
 ### 2024 to present
 
+- Coming soon! [Student app on web](https://students.hopestreetgroup.org/) launching in August for Corona Norco School District serving 200K students
 - [Teacher App on Web](https://teachers.hopestreetgroup.org/quests) Our primary teacher app helping teachers launch quests from their classroom. 
 - [Teacher app v0 prototype](https://app.hopestreetgroup.org/dashboard) Helped us learn what insights educators care about.
 - [Hope Street for students on web](https://discover.hopestreetgroup.org/) Flutter web app for students. 
 - [Annual Slack Evals](https://github.com/xacaciax/slack-openai-evaluations) before Claude CoWork, built this to assist in yearly reflections and perf reviews
-- [Hope Street for students on Android](https://play.google.com/store/apps/details?id=org.hopestreetgroup.hope_st&hl=en_US) 
-- [Hope Street for students on iOS](https://apps.apple.com/us/app/hope-street/id6447386859)
+- [Hope Street for students on Android](https://play.google.com/store/apps/details?id=org.hopestreetgroup.hope_st&hl=en_US) Core student experience
+- [Hope Street for students on iOS](https://apps.apple.com/us/app/hope-street/id6447386859) Core student experience
 
 Learn more about our product evolution [here](todo) and how I evolved our product from a simple flutter prototype to a AI-powered platform serving 20k students across the United States. We also have an event driven synchronous processing system that runs on AWS using SQS and Lamda that feeds our analytics data layer for both internal and external use. 
 
