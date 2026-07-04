@@ -1,4 +1,4 @@
-Quick links for: 
+Quick links:
 
 → 👩‍💻 [Builders](engineers)
 
@@ -6,5 +6,6 @@ Quick links for:
 
 → 👽 [Strangers of any kind](anyone) 
 
+→ 🥸 Personal [README.md](./about.md)
 
-
+→ 📚 Read long form at [{acacia}](https://xacaciax.github.io/) 
