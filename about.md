@@ -17,7 +17,7 @@ To start, here are some principles I live by to help you better understand me as
 
 **We find our meaning in service to others.** Be generous. Give away what you have. An old Georgian proverb says what is given away is kept forever, but what is kept is lost forever. I believe meaning, purpose, and significance is found in service to others. 
 
-**Every line of code represents an ethical or moral decision.** As I grow up as a software engineer, I have come to see how the things we build and how we choose build them does reflect our world view. 
+**Every line of code represents an ethical or moral decision.** As I "grow up" as a software engineer, I have come to see how the things we build and how we choose to build them does reflect our world view. 
 
 ### Working with me
 
