@@ -1,6 +1,8 @@
 # Don't ask me, ask ChatGPT
 
-I've left memory enabled with ChatGPT since ~2023. I asked it a series of questions using GPT-5.5 (High), each in a fresh context so that the answer to a previous question wouldn't influence the answer to the current one. I have used Anthropic models for most all implementation since Winter 2024. Up until Summer 2025, I continued to use OpenAI's ChatGPT to ideate, plan, and do discovery for engineering spikes and planning. Recency bias is most definitely at play here but still, I thought a transcript of gpt's synthesis of my thinking over the last couple years might be a nice validation point for anyone seeking to validate how for real I am. 
+I've left memory enabled with ChatGPT since ~2023. Having taken part in the hiring process for our team over the last year, it can be difficult to validate whether people are really capiable of what they say. Or to get a clear view of how they actual work and what they can and can't do. (Hiring is so high steaks and hard to get right!) This is one (kinda silly tbh) way of providing insight into my world of work. I figured OpenAI has partial view of my day to day over the last few years, how I think and what questions I ask, etc. Why not query against it and give you those insights? What questions would you ask? 
+
+I asked it a series of questions using GPT-5.5 (High), each in a fresh context so that the answer to a previous question wouldn't influence the answer to the current one as much. I have used Anthropic models for most all implementation since Winter 2024 with memory off. So up until Summer 2025, I continued to use OpenAI's ChatGPT to ideate, plan, and do discovery for engineering spikes and planning. Recency bias is most definitely at play here but still, I thought a transcript of gpt's synthesis of my thinking over the last couple years might be a nice validation point for anyone seeking to validate how for real I am. 
 
 Here's the result:
 
