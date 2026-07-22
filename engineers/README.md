@@ -36,4 +36,4 @@ I also wrote my first PRD, mostly because someone had to do it. I liked digging 
 ----
 
 Read my long form writing, essays, experiments and articles, on my personal page here: [{acacia}](https://xacaciax.github.io/). 
-Silly experiements and random things [here](./anyone)
+Silly experiements and random things [here.](https://github.com/xacaciax/xacaciax/tree/main/anyone)
