@@ -82,11 +82,11 @@ I am not a toddler, and fortunatly I do have some sense for the "shoulds' and "s
 
 #### When juggling, some items get dropped.
 
-In my most recent role where, I own a pretty large surface area and have also recently taken on more of a leadership role on the team. At this stage in my career, there is ALWAYS more to be done than can be done. Some things just arent' going to get done. I have been working on systems of capture to and prioritization to ensure that I have agency in what does and does not get prioritized. In addition to this, I have been working on only commiting to things that I know I can follow through on or delegate. 
+In my most recent role where, I own a pretty large surface area and have also recently taken on more of a leadership role on the team. At this stage in my career, there is ALWAYS more to be done than can be done. Some things just aren't going to get done. I have been working on systems of capture and prioritization to ensure that I have agency in what does and does not get prioritized. In addition to this, I have been working on only commiting to things that I know I can follow through on or delegate. 
 
 #### Heart first, head second. 
 
-There is this stigma that engineers are extremely rational, and therefore imlicitly also less prone to making emotional decisions. I am both female and a woman, I am very in touch with my emotions and sensetive to the emotions of those around me. I love the empirical nature of the the engineering process. In my experience, all the engineers that I have worked with so far are no less emotional than me when it comes to making decisions. I wish we were all more honest about this. The more honest we are about how our emotions effect our decision making, the better decisions we will make. I list this as a quirk because working in tech this feels counter-cultural. Communicating mission, casting vision, and leading people generally requires HEART first! 
+There is this widely accepted belief that engineers are extremely rational, and therefore implicitly also less prone to making emotional decisions. I am both female and a woman, I am very in touch with my emotions and sensetive to the emotions of those around me. I love the empirical nature of the the engineering process. In my experience, all the engineers that I have worked with so far are no less emotional than me when it comes to making decisions. I wish we were all more honest about this. The more honest we are about how our emotions effect our decision making, the better decisions we will make. I list this as a quirk because working in tech this feels counter-cultural. Communicating mission, casting vision, and leading people generally requires HEART first! 
 
 ### My Story
 
