@@ -4,7 +4,7 @@
 
 ### Primary strengths
 
-* **Languages:** Dart, TypeScript, JavaScript, SQL
+* **Languages:** Python, Dart, TypeScript, JavaScript, SQL
 * **Mobile / frontend:** Flutter, Flutter Web, React, Next.js
 * **Backend:** Node.js, REST APIs, serverless architecture
 * **Databases:** PostgreSQL, Supabase
